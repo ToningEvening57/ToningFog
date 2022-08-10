@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Toning's Fog | Fog Distance From Player: 5 blocks | Fog Color: Gray",
+        "name": "Toning's Fog | 5 Block Distance | Gray Fog",
+        "uuid": "52d0c9b8-3b96-4a98-b0d4-579d2b5906d3",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 16, 0 ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "065681b7-57e2-4054-8a39-374aae92fb08",
+            "version": [1, 0, 0]
+        }
+    ]
+}         

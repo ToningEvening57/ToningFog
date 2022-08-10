@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Toning's Fog | Fog Distance From Player: 5 blocks | Fog Color: Dark Aqua",
+        "name": "Toning's Fog | 5 Block Distance | Dark Aqua Fog",
+        "uuid": "38852121-c729-41bf-a216-e61f88da0a0c",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 16, 0 ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "d6fa4760-4d1a-41f8-b38e-ba0e1ae85216",
+            "version": [1, 0, 0]
+        }
+    ]
+}         

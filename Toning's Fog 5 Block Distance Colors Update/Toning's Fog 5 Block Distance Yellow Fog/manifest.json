@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Toning's Fog | Fog Distance From Player: 30 blocks | Fog Color: Yellow",
+        "name": "Toning's Fog | 30 Block Distance | Yellow Fog",
+        "uuid": "4076c98a-dd65-44df-b35c-ca43518b7e0b",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 16, 0 ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "eb08f34a-20c0-4a2b-b200-4c3b1506009f",
+            "version": [1, 0, 0]
+        }
+    ]
+}         
